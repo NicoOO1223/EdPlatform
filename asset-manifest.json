@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/EdPlatform/static/css/main.a4acf75a.css",
-    "main.js": "/EdPlatform/static/js/main.80c3250f.js",
+    "main.js": "/EdPlatform/static/js/main.77d0da9b.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/EdPlatform/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/EdPlatform/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/EdPlatform/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -62,13 +62,12 @@
     "static/media/KaTeX_Size4-Regular.woff2": "/EdPlatform/static/media/KaTeX_Size4-Regular.e418bf257af1052628d8.woff2",
     "static/media/KaTeX_Size3-Regular.woff": "/EdPlatform/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/EdPlatform/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
-    "static/media/logo.svg": "/EdPlatform/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/EdPlatform/index.html",
     "main.a4acf75a.css.map": "/EdPlatform/static/css/main.a4acf75a.css.map",
-    "main.80c3250f.js.map": "/EdPlatform/static/js/main.80c3250f.js.map"
+    "main.77d0da9b.js.map": "/EdPlatform/static/js/main.77d0da9b.js.map"
   },
   "entrypoints": [
     "static/css/main.a4acf75a.css",
-    "static/js/main.80c3250f.js"
+    "static/js/main.77d0da9b.js"
   ]
 }
