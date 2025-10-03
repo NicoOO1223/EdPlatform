@@ -1,7 +1,12 @@
 {
   "files": {
-    "main.css": "/EdPlatform/static/css/main.dd90ba6d.css",
-    "main.js": "/EdPlatform/static/js/main.a4ff7735.js",
+    "main.css": "/EdPlatform/static/css/main.e1a554d5.css",
+    "main.js": "/EdPlatform/static/js/main.108176b7.js",
+    "static/media/Zbiory_liczbowe.png": "/EdPlatform/static/media/Zbiory_liczbowe.45a695ba3ccf614f9870.png",
+    "static/media/Interval_open.png": "/EdPlatform/static/media/Interval_open.a8ebef5d3aa5fc516e68.png",
+    "static/media/Interval_left.png": "/EdPlatform/static/media/Interval_left.df5154eecd2dad6b3d80.png",
+    "static/media/Interval_right.png": "/EdPlatform/static/media/Interval_right.24dd08ecd96b1e5a1a1e.png",
+    "static/media/Interval_closed.png": "/EdPlatform/static/media/Interval_closed.3ac6cf8280ab790dc95d.png",
     "static/media/KaTeX_AMS-Regular.ttf": "/EdPlatform/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/EdPlatform/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/EdPlatform/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -63,11 +68,11 @@
     "static/media/KaTeX_Size3-Regular.woff": "/EdPlatform/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/EdPlatform/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/EdPlatform/index.html",
-    "main.dd90ba6d.css.map": "/EdPlatform/static/css/main.dd90ba6d.css.map",
-    "main.a4ff7735.js.map": "/EdPlatform/static/js/main.a4ff7735.js.map"
+    "main.e1a554d5.css.map": "/EdPlatform/static/css/main.e1a554d5.css.map",
+    "main.108176b7.js.map": "/EdPlatform/static/js/main.108176b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd90ba6d.css",
-    "static/js/main.a4ff7735.js"
+    "static/css/main.e1a554d5.css",
+    "static/js/main.108176b7.js"
   ]
 }
